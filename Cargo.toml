@@ -1,13 +1,13 @@
 [package]
 name = "better-hand"
-version = "1.1.5"
+version = "1.1.6"
 authors = ["Adithya Chari <adithya.chari@gmail.com>"]
 edition = "2018"
 license = "MIT"
 description = "Calculates the equity of your No Limit Hold 'Em hand"
-homepage = "https://github.com/adchari/better-hand"
-documentation = "https://github.com/adchari/better-hand"
-repository = "https://github.com/adchari/better-hand"
+homepage = "https://sr.ht/~adchari/better-hand/"
+documentation = "https://sr.ht/~adchari/better-hand/"
+repository = "https://git.sr.ht/~adchari/better-hand"
 readme = "README.md"
 keywords = ["cli", "cards", "poker", "holdem", "game"]
 categories = ["command-line-utilities", "games"]
