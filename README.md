@@ -1,5 +1,7 @@
 # Better-Hand
 
+This repository has been archived, please refer to the [SourceHut page](https://sr.ht/~adchari/better-hand/)
+
 Calculates your equity against opponent starting hands for No-Limit Texas Hold 'Em. 
 
 ### Installation
